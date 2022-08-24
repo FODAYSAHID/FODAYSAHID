@@ -1,6 +1,6 @@
 ### Hi, I'm Foday - a Fullstack developer based in Sierra Leone 👋
 
-[![Website](https://img.shields.io/website?label=fodaysnkamara&style=for-the-badge&url=https%3A%2F%2Ffodaysnkamara.com)](https://fodaysnkamara.com)
+[![Website](https://img.shields.io/website?label=fodaysnkamara&style=for-the-badge&url=https%3A%2F%2Ffodaysnkamara.dev)](https://fodaysnkamara.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/fodaysnkamara?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffodaysahid&screen_name=fodaysnkamara)
 
 ## Code Artisan | Entrepreneur | Empath |
