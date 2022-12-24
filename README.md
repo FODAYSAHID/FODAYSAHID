@@ -1,18 +1,18 @@
 ### Hi, I'm Foday - a Fullstack developer based in Sierra Leone 👋
 
-[![Website](https://img.shields.io/website?label=fodaysnkamara&style=for-the-badge&url=https%3A%2F%2Ffodaysnkamara.com)](https://fodaysnkamara.dev)
+[![Website](https://img.shields.io/website?label=fodaysnkamara&style=for-the-badge&url=https%3A%2F%2Ffodaysnkamara.dev)](https://fodaysnkamara.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/fodaysnkamara?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffodaysahid&screen_name=fodaysnkamara)
 
 ## Code Artisan | Entrepreneur | Empath |
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Basketball
 
 ### Connect with me:
 
-[<img align="left" alt="fodaysnkamara.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="fodaysnkamara.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="fodaysnkamara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="fodaysnkamara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
