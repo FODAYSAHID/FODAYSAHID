@@ -1,4 +1,4 @@
-### Hi, I'm Foday - a Fullstack developer based in Sierra Leone 👋
+### Hi, I'm Foday - a versatile Fullstack Developer based in Germany. Passionate about creating seamless and impactful web applications, I thrive on turning ideas into functional, user-friendly experiences. Let's innovate together! 👋
 
 [![Website](https://img.shields.io/website?label=fodaysnkamara&style=for-the-badge&url=https%3A%2F%2Ffodaysnkamara.com)](https://fodaysnkamara.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/fodaysnkamara?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffodaysahid&screen_name=fodaysnkamara)
