@@ -8,8 +8,10 @@
 - 🌱 Exploring a wide array of knowledge with enthusiasm! 🤣
 - 👯 Eager to collaborate with fellow developers on exciting projects.
 - 🥅 Goals for 2023: Contribute significantly to Open Source initiatives.
-- ⚡ Fun fact: I'm passionate about basketball on the court and coding in the digital arena! 🏀💻
-  Plus, I enjoy swimming in my free time to stay active and refreshed. 🏊‍♂️
+## Fun Facts: Embracing Passion Beyond Borders!
+- 💻 Code Enthusiast: I'm passionate about coding in the digital arena and mastering the art of software development!
+- 🏀 Basketball: On the court, I channel my passion for basketball, aiming for the perfect shot every time!
+- 🏊‍♂️ Swimming: In my free time, I love to swim, staying active and refreshed, ready to dive into new challenges!
 
 ### Connect with me:
 
