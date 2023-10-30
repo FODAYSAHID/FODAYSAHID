@@ -5,10 +5,10 @@
 
 ## Code Artisan | Entrepreneur | Empath |
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Basketball
+- 🌱 Exploring a wide array of knowledge with enthusiasm! 🤣
+- 👯 Eager to collaborate with fellow developers on exciting projects.
+- 🥅 Goals for 2023: Contribute significantly to Open Source initiatives.
+- ⚡ Fun fact: I'm passionate about basketball on the court and coding in the digital arena! 🏀💻 Plus, I enjoy swimming in my free time to stay active and refreshed. 🏊‍♂️
 
 ### Connect with me:
 
